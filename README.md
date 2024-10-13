@@ -18,9 +18,13 @@ For the Data Model the key tables that needed to be created were:
 |Person|A table containing a unique list of the group members  
 
 After all the tables are created, the needed relationships are created and it looks like this:    
+![image](https://github.com/user-attachments/assets/c305adb2-273e-42bf-b2e2-cd85b3a49ed3)
+
 
 ## Report Design  
 The design layout was designed in PowerPoint to have an idea of what I wanted the final output to be in PowerBI.   
+![image](https://github.com/user-attachments/assets/7ef63c0d-5762-4f4a-93c5-68bf69c8d8ee)
+
 
 ## Live Report
 you can explore the interactive version of the report to see the full functionality and User Experience. [WhatsApp Analytics](https://app.powerbi.com/view?r=eyJrIjoiMWM4Zjc5NWEtZDg4YS00YmUxLTlmYjgtYTA1Y2NhMDNiOTMxIiwidCI6IjA3ZjAxN2QwLWJiNzEtNDliYS1iMTMxLTJkZDkyZWQ3MWE3MiJ9)
